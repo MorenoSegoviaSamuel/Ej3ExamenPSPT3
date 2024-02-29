@@ -40,16 +40,16 @@ Spring Boot
 
 Ejemplo de Uso:
 
-Obtener 100 números aleatorios:
-
+-Obtener 100 números aleatorios:
 GET /random/numbers
-Obtener un número aleatorio de 5 dígitos:
-__
+
+-Obtener un número aleatorio de 5 dígitos:
 GET /random/number/5
-Generar un número aleatorio basado en un número aleatorio proporcionado (por ejemplo, { "random": 12345 }):
-__
+
+-Generar un número aleatorio basado en un número aleatorio proporcionado (por ejemplo, { "random": 12345 }):
 PUT /random/number
 Body: { "random": 12345 }
+
 Notas Adicionales:
 Asegúrate de enviar los datos en formato JSON adecuado en el cuerpo de las solicitudes para los endpoints que lo requieran.
 Verifica las respuestas de la aplicación para asegurarte de que se están procesando correctamente las solicitudes.
