@@ -41,13 +41,17 @@
 -Ejemplo de Uso:
 
 -Obtener 100 números aleatorios:
+
 -GET /random/numbers
 
 -Obtener un número aleatorio de 5 dígitos:
+
 -GET /random/number/5
 
 -Generar un número aleatorio basado en un número aleatorio proporcionado (por ejemplo, { "random": 12345 }):
+
 -PUT /random/number
+
 -Body: { "random": 12345 }
 
 -Notas Adicionales:
