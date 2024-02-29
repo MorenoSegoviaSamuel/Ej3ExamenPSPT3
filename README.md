@@ -7,12 +7,12 @@ Obtener 100 Números Aleatorios
 
 Endpoint: GET /random/numbers
 Descripción: Devuelve una lista de 100 números aleatorios generados.
-Obtener un Número Aleatorio de N Dígitos
 
+Obtener un Número Aleatorio de N Dígitos
 Endpoint: GET /random/number/{d}
 Descripción: Devuelve un número aleatorio que tiene el número específico de dígitos (N).
-Generar un Número Aleatorio Basado en un Número Aleatorio Proporcionado
 
+Generar un Número Aleatorio Basado en un Número Aleatorio Proporcionado
 Endpoint: PUT /random/number
 Descripción: Recibe un número aleatorio en formato JSON y devuelve otro número aleatorio con la misma cantidad de dígitos.
 
