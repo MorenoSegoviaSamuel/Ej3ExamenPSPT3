@@ -1,4 +1,5 @@
-Aplicación de Generación de Números Aleatorios
+# Aplicación de Generación de Números Aleatorios
+
 Esta es una aplicación desarrollada con Java y Spring Boot que proporciona endpoints para generar números aleatorios y realizar operaciones relacionadas con ellos.
 
 Funcionalidades Principales:
