@@ -3,8 +3,8 @@
 Esta es una aplicación desarrollada con Java y Spring Boot que proporciona endpoints para generar números aleatorios y realizar operaciones relacionadas con ellos.
 
 Funcionalidades Principales:
-Obtener 100 Números Aleatorios
 
+Obtener 100 Números Aleatorios
 Endpoint: GET /random/numbers
 Descripción: Devuelve una lista de 100 números aleatorios generados.
 
